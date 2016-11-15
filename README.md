@@ -1,4 +1,4 @@
-Five hour games: Ice hockey
+# Five hour games: Ice hockey #
 
 A simple ice hockey game that I attempted to make in five hours with Unity. You can check the game in action from here:
 https://www.youtube.com/watch?v=7F-MEK6l5UY
@@ -10,6 +10,7 @@ NOTE: I made this with two gamepads in mind, specifically PS4-controllers. Becau
 Have fun with the package, and bother me at Twitter (@esajaaskela) if something doesn't work.
 
 Thanks to following people for the external resources I used:
+
 Sergiy S. Tkachenko for Sports World -font
 http://www.dafont.com/sports-world.font
 
