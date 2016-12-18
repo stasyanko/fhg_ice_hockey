@@ -3,6 +3,9 @@
 A simple ice hockey game that I attempted to make in five hours with Unity. You can check the game in action from here:
 https://www.youtube.com/watch?v=7F-MEK6l5UY
 
+More detailed blog post explaining this project can be read here:
+http://fivehourgames.blogspot.fi/2016/11/five-hour-game-ice-hockey.html
+
 This is the complete project, and the ice_hockey_build contains a test build I made.
 
 NOTE: I made this with two gamepads in mind, specifically PS4-controllers. Because of "something", axes got mapped a bit weirdly, and you most likely need to re-map them again from the Project Settings->Input.
